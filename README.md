@@ -44,7 +44,7 @@ My main objective is to build websites that work on any screen and feel intuitiv
 
 ### 📈 Languages
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fbettencourt22&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fbettencourt22&hide=html,css&theme=tokyonight)
 
 ---
 
